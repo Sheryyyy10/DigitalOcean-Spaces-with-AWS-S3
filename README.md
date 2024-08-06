@@ -24,7 +24,7 @@ This project provides a Django API for performing CRUD (Create, Read, Update, De
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/django-digitalocean-spaces.git
+    git clone https://github.com/Sheryyyy10/DigitalOcean-Spaces-with-AWS-S3.git
     cd django-digitalocean-spaces
     ```
 
