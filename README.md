@@ -25,8 +25,7 @@ This project provides a Django API for performing CRUD (Create, Read, Update, De
 
     ```bash
     git clone https://github.com/Sheryyyy10/DigitalOcean-Spaces-with-AWS-S3.git
-    cd django-digitalocean-spaces
-    ```
+    
 
 2. **Create a virtual environment and activate it:**
 
